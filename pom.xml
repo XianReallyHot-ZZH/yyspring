@@ -16,6 +16,7 @@
 
     <modules>
         <module>yyspring-core</module>
+        <module>yyspring-demo</module>
     </modules>
 
 </project>
